@@ -1,0 +1,14 @@
+{
+    "KPlugin": {
+        "Name": "SolydL Dark",
+        "Id": "solydl-dark",
+        "License": "GPLv2+",
+        "Authors": [
+            {
+                "Name": "Arjen Balfoort",
+                "Email": "arjenbalfoort@hotmail.com"
+            }
+        ]
+    }
+}
+

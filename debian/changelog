@@ -1,0 +1,11 @@
+solydl-system-adjustments-13 (1.0.1) stable; urgency=low
+
+  * Add hardinfo2 config
+
+ -- Arjen Balfoort <arjenbalfoort@hotmail.com>  Sun, 02 Jun 2024 11:26:13 +0200
+
+solydl-system-adjustments-13 (1.0.0) stable; urgency=low
+
+  * Initial version 1.0.0
+
+ -- Arjen Balfoort <arjenbalfoort@hotmail.com>  Sat, 24 Feb 2024 11:13:00 +0100

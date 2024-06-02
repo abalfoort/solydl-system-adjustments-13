@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=SolydL Black Static
+Description=SolydL Black Plymouth Theme - Static Image.
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/solydl-black-static
+ScriptFile=/usr/share/plymouth/themes/solydl-black-static/solydl-black-static.script

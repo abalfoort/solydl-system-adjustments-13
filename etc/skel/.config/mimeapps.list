@@ -1,0 +1,11 @@
+[Added Associations]
+image/gif=lximage-qt.desktop;
+image/jpeg=lximage-qt.desktop;
+image/png=lximage-qt.desktop;
+text/html=firefox-esr.desktop;
+x-scheme-handler/http=firefox-esr.desktop;
+x-scheme-handler/https=firefox-esr.desktop;
+x-scheme-handler/about=firefox-esr.desktop;
+x-scheme-handler/unknown=firefox-esr.desktop;
+inode/directory=pcmanfm-qt.desktop;
+application/xml=featherpad.desktop;

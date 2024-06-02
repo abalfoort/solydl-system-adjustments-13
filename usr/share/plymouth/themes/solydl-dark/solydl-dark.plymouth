@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=SolydL Dark
+Description=SolydL Dark Plymouth Theme.
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/solydl-dark
+ScriptFile=/usr/share/plymouth/themes/solydl-dark/solydl-dark.script

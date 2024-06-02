@@ -1,0 +1,12 @@
+/usr/share/desktop-base/solydl-light-theme/login/background.svg /usr/share/images/desktop-base/solydl-lightdmbg-light.svg
+/usr/share/desktop-base/solydl-black-theme/login/background.svg /usr/share/images/desktop-base/solydl-lightdmbg-black.svg
+/usr/share/desktop-base/solydl-dark-theme/login/background.svg /usr/share/images/desktop-base/solydl-lightdmbg-dark.svg
+/usr/share/plymouth/themes/solydl-light /usr/share/desktop-base/solydl-light-theme/plymouth
+/usr/share/plymouth/themes/solydl-black /usr/share/desktop-base/solydl-black-theme/plymouth
+/usr/share/plymouth/themes/solydl-dark /usr/share/desktop-base/solydl-dark-theme/plymouth
+/usr/share/desktop-base/solydl-black-theme/wallpaper /usr/share/wallpapers/solydl-black
+/usr/share/desktop-base/solydl-dark-theme/wallpaper /usr/share/wallpapers/solydl-dark
+/usr/share/desktop-base/solydl-light-theme/wallpaper /usr/share/wallpapers/solydl-light
+/usr/share/desktop-base/solydl-light-theme/grub/grub-16x9.png /usr/share/lxqt/themes/solydl-light/wallpaper.png
+/usr/share/desktop-base/solydl-dark-theme/grub/grub-16x9.png /usr/share/lxqt/themes/solydl-dark/wallpaper.png
+/usr/share/desktop-base/solydl-black-theme/grub/grub-16x9.png /usr/share/lxqt/themes/solydl-black/wallpaper.png

@@ -1,0 +1,157 @@
+/*
+ * Panel
+ */
+#panel {
+    background: rgba(239, 240, 241, 50%);
+    border: 1px solid rgba(239, 240, 241, 50%);
+}
+
+/*
+ * Buttons
+ */
+QToolButton::menu-indicator {
+    image: none;
+}
+
+#closeButton {
+    qproperty-icon: url(lxqt-runner/close.svg);
+    margin: 2px;
+}
+
+#closeButton:hover {
+    border: 1px solid rgba(239, 240, 241, 50%);
+    background: rgba(49, 54, 58, 20%);
+}
+
+#actionButton {
+    qproperty-icon: url(lxqt-runner/down-arrow.svg);
+    color: rgba(41, 41, 41, 0%);
+    margin: 2px;
+}
+
+#actionButton:hover {
+    border: 1px solid rgba(239, 240, 241, 50%);
+    background: rgba(49, 54, 58, 20%);
+}
+
+#actionButton:pressed {
+    border: 1px solid rgba(239, 240, 241, 50%);
+    background: rgba(49, 54, 58, 20%);
+}
+
+/*
+ *Search line-edit
+ */
+#commandEd {
+    background: white;
+    border: 2px solid white;
+    border-radius: 3px;
+    padding: 6px;
+    margin-bottom: 1px;
+    color: black;
+    selection-color: black;
+    selection-background-color: #2c6a8c;
+}
+
+/*
+ *Search results list
+ */
+#commandList {
+    border: none;
+    background: white;
+    alternate-background-color: #c2c2c2;
+    color: black;
+    selection-background-color: #eb7140;
+    selection-color: black;
+}
+
+#commandList::item {
+    background: white;
+    color: black;
+}
+
+#commandList::item:alternate {
+    background: #c2c2c2;
+    color: black;
+}
+
+#commandList::item:hover {
+    background: #193e51;
+    color: black;
+}
+
+#commandList::item:selected {
+    background: #2c6a8c;
+    color: black;
+}
+
+/*
+ * Menu
+ */
+QMenu {
+    margin: 0px;
+    padding: 2px;
+    border: 1px solid #959595;
+    border-bottom-color: white;
+    border-right-color: white;
+    background: white;
+/*  qproperty-icon: url(mainmenu.svg); */
+    color: black;
+}
+
+QMenu::icon {
+    background-color: transparent;
+    border: 20px;
+}
+
+QMenu QToolButton {
+    background-color: #7a7a7a;
+    padding: 5px;
+    border: none;
+    color: black;
+    font: bold italic;
+}
+
+QMenu::item {
+    border: 10px solid transparent;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    border-right-width: 5px;
+    padding: 6px 40px 6px 24px;
+    background: transparent;
+    color: black;
+}
+
+QMenu::item:selected {
+    border: 10px solid #2c6a8c;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    border-right-width: 5px;
+    background: #2c6a8c;
+    color: black;
+}
+
+QMenu::item:selected:disabled {
+    background-color: palette(text);
+}
+
+QMenu::item:disabled {
+    color: #6D6D6D;
+}
+
+QMenu::right-arrow {
+    image: url(arrow-right.svg);
+}
+
+QMenu::indicator {
+    width: 13px;
+    height: 13px;
+}
+
+QMenu::indicator:non-exclusive:unchecked {
+    image: url(unchecked.svg);
+}
+
+QMenu::indicator:non-exclusive:checked {
+    image: url(checked.svg);
+}

@@ -1,0 +1,45 @@
+Source: solydl-system-adjustments-13
+Section: admin
+Priority: optional
+Maintainer: Arjen Balfoort <arjenbalfoort@hotmail.com>
+Build-Depends: debhelper-compat (= 12)
+Standards-Version: 4.5.0
+
+Package: solydl-system-adjustments-13
+Architecture: all
+Depends: ${misc:Depends}, 
+  evolvere-2-blue,
+  oxygencursors,
+  gtk2-engines-pixbuf,
+  kde-style-breeze,
+  breeze-l-gtk-theme,
+  breeze-icon-theme,
+  libreoffice-style-breeze,
+  fonts-roboto-slab,
+  fonts-clear-sans,
+  xsettingsd,
+  lxqt-system-theme,
+  xfwm4,
+  qdbus-qt5,
+  qt5ct,
+  qt5-style-plugins
+Recommends: plymouth,
+  lightdm,
+  lightdm-gtk-greeter,
+  libreoffice-style-breeze,
+  apparmor,
+  apparmor-utils,
+  apparmor-profiles,
+  apparmor-profiles-extra,
+  firefox-solydxk-adjustments,
+  thunderbird-solydxk-adjustments,
+  xdg-utils,
+  udisks2
+Conflicts: solydl-system-adjustments-12,
+  lxqt-branding-debian,
+  lxqt-theme-debian
+Replaces: solydl-system-adjustments-12,
+  lxqt-branding-debian,
+  lxqt-theme-debian
+Description: Adjustments for SolydL 13.
+ This includes configuration and graphical changes.

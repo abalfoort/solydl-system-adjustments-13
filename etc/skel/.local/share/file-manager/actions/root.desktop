@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Action
+Tooltip=Open Folder As Root
+Name=Open Folder As Root
+Icon=dialog-password
+Profiles=root-open;
+
+[X-Action-Profile root-open]
+MimeTypes=inode/directory;
+Exec=lxqt-sudo pcmanfm-qt %u
+Name=Default profile
