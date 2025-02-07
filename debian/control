@@ -21,7 +21,6 @@ Depends: ${misc:Depends},
   lxqt-system-theme,
   xfwm4,
   qdbus-qt5,
-  qt5ct,
   qt5-style-plugins
 Recommends: plymouth,
   lightdm,
