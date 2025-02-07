@@ -1,3 +1,15 @@
+solydl-system-adjustments-13 (1.0.3) stable; urgency=low
+
+  * Larger panel/icon size
+
+ -- Arjen Balfoort <arjenbalfoort@hotmail.com>  Tue, 04 Feb 2025 22:14:16 +0100
+
+solydl-system-adjustments-13 (1.0.2) stable; urgency=low
+
+  * Remove dependency qt5ct
+
+ -- Arjen Balfoort <arjenbalfoort@hotmail.com>  Sat, 07 Sep 2024 15:43:46 +0200
+
 solydl-system-adjustments-13 (1.0.1) stable; urgency=low
 
   * Add hardinfo2 config
