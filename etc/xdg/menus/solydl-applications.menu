@@ -137,7 +137,6 @@
 		</Include>
 	</Menu>	 <!-- End System Tools -->
 
-	<!-- 
 	<Menu>
 		<Name>Other</Name>
 		<Directory>lxde-other.directory</Directory>
@@ -149,7 +148,7 @@
 				<Not><Category>Screensaver</Category></Not>
 			</And>
 		</Include>
-		</Menu> Other -->
+    </Menu>
 
 	<!-- Settings -->
 	<Menu>
