@@ -1,3 +1,9 @@
+solydl-system-adjustments-13 (1.0.4) stable; urgency=low
+
+  * Font size +1
+
+ -- Arjen Balfoort <arjenbalfoort@hotmail.com>  Wed, 12 Mar 2025 13:54:58 +0100
+
 solydl-system-adjustments-13 (1.0.3) stable; urgency=low
 
   * Larger panel/icon size
